@@ -1,2 +1,3 @@
-# code-editor
+# Code Editor
+---
 Code Editor Repo
